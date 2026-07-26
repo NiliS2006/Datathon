@@ -1,0 +1,41 @@
+CrimeSubHeadID,CrimeHeadID,CrimeHeadName,CrimeSubHeadName,Status
+1,1,Murder,Contract Killing,Active
+2,1,Murder,Family Dispute,Active
+3,1,Murder,Gang Rivalry,Active
+4,1,Murder,Property Dispute,Active
+5,2,Attempt to Murder,Knife Attack,Active
+6,2,Attempt to Murder,Firearm Attack,Active
+7,2,Attempt to Murder,Personal Rivalry,Active
+8,3,Robbery,Bank Robbery,Active
+9,3,Robbery,Street Robbery,Active
+10,3,Robbery,House Robbery,Active
+11,4,Burglary,House Break-in,Active
+12,4,Burglary,Shop Burglary,Active
+13,4,Burglary,Office Burglary,Active
+14,5,Vehicle Theft,Motorcycle Theft,Active
+15,5,Vehicle Theft,Car Theft,Active
+16,5,Vehicle Theft,Truck Theft,Active
+17,5,Vehicle Theft,Auto Rickshaw Theft,Active
+18,6,Cyber Crime,UPI Fraud,Active
+19,6,Cyber Crime,Phishing,Active
+20,6,Cyber Crime,Identity Theft,Active
+21,6,Cyber Crime,Credit Card Fraud,Active
+22,6,Cyber Crime,Social Media Scam,Active
+23,7,Drug Offence,Drug Possession,Active
+24,7,Drug Offence,Drug Trafficking,Active
+25,7,Drug Offence,Drug Manufacturing,Active
+26,8,Kidnapping,Child Kidnapping,Active
+27,8,Kidnapping,Ransom Kidnapping,Active
+28,8,Kidnapping,Human Trafficking,Active
+29,9,Fraud,Insurance Fraud,Active
+30,9,Fraud,Loan Fraud,Active
+31,9,Fraud,Investment Scam,Active
+32,10,Domestic Violence,Physical Abuse,Active
+33,10,Domestic Violence,Mental Abuse,Active
+34,10,Domestic Violence,Dowry Harassment,Active
+35,11,Assault,Simple Assault,Active
+36,11,Assault,Aggravated Assault,Active
+37,11,Assault,Public Fight,Active
+38,12,Missing Person,Child Missing,Active
+39,12,Missing Person,Adult Missing,Active
+40,12,Missing Person,Senior Citizen Missing,Active

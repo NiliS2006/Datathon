@@ -1,0 +1,21 @@
+StationID,StationName,DistrictID,DistrictName,StationType,Latitude,Longitude,OfficerCount,AnnualCases,Status
+1,Whitefield Police Station,1,Bengaluru Urban,Urban,12.977107,77.565042,96,4457,Active
+2,Indiranagar Police Station,1,Bengaluru Urban,Urban,12.953514,77.60978,69,3511,Active
+3,HAL Police Station,1,Bengaluru Urban,Urban,12.975603,77.598561,89,3142,Active
+4,Electronic City Police Station,1,Bengaluru Urban,Urban,12.982501,77.62726,85,3160,Active
+5,Koramangala Police Station,1,Bengaluru Urban,Urban,12.939416,77.5709,87,1874,Active
+6,Jayanagar Police Station,1,Bengaluru Urban,Urban,12.991035,77.591904,114,2635,Active
+7,Banashankari Police Station,1,Bengaluru Urban,Urban,12.935331,77.625673,79,4493,Active
+8,Malleswaram Police Station,1,Bengaluru Urban,Urban,12.987006,77.596965,88,1836,Active
+9,Yelahanka Police Station,1,Bengaluru Urban,Urban,12.994068,77.566597,66,3658,Active
+10,Hebbal Police Station,1,Bengaluru Urban,Urban,12.954255,77.590571,110,2626,Active
+11,Lashkar Police Station,2,Mysuru,Urban,12.334124,76.608299,80,2330,Active
+12,Nazarbad Police Station,2,Mysuru,Urban,12.312734,76.671529,93,2161,Active
+13,Vijayanagar Police Station,2,Mysuru,Urban,12.311452,76.676174,62,2312,Active
+14,Mysuru South Police Station,2,Mysuru,Urban,12.27897,76.66141,61,2339,Active
+15,Mysuru East Police Station,2,Mysuru,Urban,12.291794,76.613125,76,1970,Active
+16,Mangaluru North Police Station,3,Dakshina Kannada,Urban,12.949894,74.872392,88,2390,Active
+17,Mangaluru South Police Station,3,Dakshina Kannada,Urban,12.906125,74.851626,63,2790,Active
+18,Bantwal Police Station,3,Dakshina Kannada,Semi Urban,12.941638,74.861185,59,1700,Active
+19,Moodbidri Police Station,3,Dakshina Kannada,Semi Urban,12.929663,74.835162,75,1665,Active
+20,Surathkal Police Station,3,Dakshina Kannada,Urban,12.916885,74.863364,78,3899,Active

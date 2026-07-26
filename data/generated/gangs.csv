@@ -1,0 +1,51 @@
+GangID,GangName,GangType,FormationYear,ActiveStatus
+1,Dark Network 1,Drug Syndicate,2013,Inactive
+2,Ghost Riders 2,Drug Syndicate,2013,Active
+3,Shadow Wolves 3,Financial Fraud Network,1990,Active
+4,Golden Syndicate 4,Vehicle Theft Gang,2021,Inactive
+5,Dark Network 5,Human Trafficking,1994,Active
+6,Red Scorpions 6,Cyber Crime Ring,1994,Active
+7,Golden Syndicate 7,Cyber Crime Ring,2008,Active
+8,Iron Tigers 8,Drug Syndicate,2008,Active
+9,Iron Tigers 9,Illegal Mining,2012,Inactive
+10,Golden Syndicate 10,Vehicle Theft Gang,1991,Inactive
+11,Iron Tigers 11,Financial Fraud Network,2003,Inactive
+12,Night Hawks 12,Vehicle Theft Gang,1991,Active
+13,Dark Network 13,Extortion Group,1997,Inactive
+14,Black Cobra 14,Drug Syndicate,2022,Inactive
+15,Silver Kings 15,Contract Killers,2005,Active
+16,Ghost Riders 16,Illegal Mining,2001,Active
+17,Dark Network 17,Drug Syndicate,2015,Active
+18,Golden Syndicate 18,Vehicle Theft Gang,2002,Active
+19,Red Scorpions 19,Financial Fraud Network,2017,Active
+20,Silver Kings 20,Financial Fraud Network,1999,Active
+21,Red Scorpions 21,Extortion Group,1999,Active
+22,Iron Tigers 22,Cyber Crime Ring,1994,Active
+23,Red Scorpions 23,Human Trafficking,2009,Inactive
+24,Ghost Riders 24,Financial Fraud Network,2019,Active
+25,Ghost Riders 25,Financial Fraud Network,2021,Inactive
+26,Black Cobra 26,Illegal Mining,2006,Active
+27,Ghost Riders 27,Drug Syndicate,2021,Active
+28,Night Hawks 28,Illegal Mining,2020,Inactive
+29,Silver Kings 29,Contract Killers,1990,Inactive
+30,Dark Network 30,Contract Killers,2016,Inactive
+31,Golden Syndicate 31,Human Trafficking,2011,Inactive
+32,Golden Syndicate 32,Contract Killers,2023,Inactive
+33,Black Cobra 33,Illegal Mining,1995,Inactive
+34,Golden Syndicate 34,Illegal Mining,2002,Active
+35,Shadow Wolves 35,Cyber Crime Ring,2004,Active
+36,Iron Tigers 36,Contract Killers,2015,Active
+37,Iron Tigers 37,Cyber Crime Ring,2015,Inactive
+38,Golden Syndicate 38,Vehicle Theft Gang,2015,Active
+39,Night Hawks 39,Extortion Group,2023,Inactive
+40,Red Scorpions 40,Illegal Mining,2019,Inactive
+41,Red Scorpions 41,Contract Killers,1995,Active
+42,Silver Kings 42,Contract Killers,2021,Inactive
+43,Black Cobra 43,Contract Killers,1990,Inactive
+44,Shadow Wolves 44,Contract Killers,2009,Inactive
+45,Black Cobra 45,Human Trafficking,2003,Active
+46,Night Hawks 46,Financial Fraud Network,2015,Active
+47,Iron Tigers 47,Contract Killers,2021,Active
+48,Ghost Riders 48,Drug Syndicate,1995,Active
+49,Shadow Wolves 49,Vehicle Theft Gang,2019,Inactive
+50,Night Hawks 50,Vehicle Theft Gang,2022,Active
